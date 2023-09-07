@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vlad005
 - 👀 I’m interested in software development, chess and piano.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Machine Learning
 
 <!---
 Vlad005/Vlad005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
